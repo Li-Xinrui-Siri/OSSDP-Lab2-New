@@ -1,6 +1,7 @@
 package com.example.lab2codes;
 
 import java.util.*;
+//2022211966对2022211962的fork的修改
 /*
  * @Description:
  * ## 字符串相乘
